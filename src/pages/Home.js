@@ -6,7 +6,7 @@ import Hero from '../components/Hero/Hero';
 import { heroOne, heroTwo, heroThree } from '../data/HeroData';
 
 // Hero Feature Content Carousel
-//d
+//ds
 const Home = () => {
 	return (
 		<>
